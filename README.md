@@ -1,4 +1,4 @@
-##Log
+## Log
 * LOG_LEVEL:
 	* DEBUG
 	* INFO
@@ -7,12 +7,12 @@
 	* PANIC
 	* FATAL
 
-#Go Run
+# Go Run
 ```
 LOG_LEVEL=DEBUG go run cmd/service/main.go
 ```
 
-#Go Build 
+# Go Build 
 ```
 go build cmd/service/main.go
 ```
